@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/danielsorby" target="blank"><img src="https://img.shields.io/twitter/follow/danielsorby?logo=twitter&style=for-the-badge" alt="danielsorby" /></a> </p>
 
--   🔭 I’m currently working on [DASI Gpt](https://github.com/DanielJSorby/DASI)
+-   🔭 I’m currently working on **[DASI Gpt](https://github.com/DanielJSorby/DASI)**
 
 -   🌱 I’m currently learning **Svelte and React**
 
--   👨‍💻 All of my projects are available at [https://github.com/danieljsorby](https://github.com/danieljsorby)
+-   👨‍💻 All of my projects are available at **[https://github.com/danieljsorby](https://github.com/danieljsorby)**
 
--   📫 How to reach me **kontakt@danielsorby.no**
+-   📫 How to reach me **[kontakt@danielsorby.no](mailto:kontakt@danielsorby.no)**
 
 -   ⚡ Fun fact **I made my first "game" when i was 9**
+
+-   🌐 Check out my portfolio at **[danielsorby.no](https://danielsorby.no)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
