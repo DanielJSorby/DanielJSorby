@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/danielsorby" target="blank"><img src="https://img.shields.io/twitter/follow/danielsorby?logo=twitter&style=for-the-badge" alt="danielsorby" /></a> </p>
 
--   🔭 I’m currently working on **[DASI Gpt](https://github.com/DanielJSorby/DASI)**
+-   🔭 I’m currently working on **[My Portfolio](https://www.danielsorby.no/)**
 
 -   🌱 I’m currently learning **Svelte and React**
 
