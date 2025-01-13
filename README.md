@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieljsorby&label=Profile%20views&color=0e75b6&style=flat" alt="danieljsorby" /> </p>
 
-<p align="left"> <a href="https://twitter.com/danielsorby" target="blank"><img src="https://img.shields.io/twitter/follow/danielsorby?logo=twitter&style=for-the-badge" alt="danielsorby" /></a> </p>
+<p align="left"> <a href="https://twitter.com/daniel_sorby" target="blank"><img src="https://img.shields.io/twitter/follow/daniel_sorby?logo=x&style=for-the-badge" alt="danielsorby" /></a> </p>
 
 -   🔭 I’m currently working on **[My Portfolio](https://www.danielsorby.no/)**
 
